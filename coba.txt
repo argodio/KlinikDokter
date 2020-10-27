@@ -2,3 +2,4 @@ PLANING
 - Simple
 - Elegan
 - Appropiate Fitur
+- Google Account
