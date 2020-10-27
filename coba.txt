@@ -3,3 +3,4 @@ PLANING
 - Elegan
 - Appropiate Fitur
 - Google Account
+- Faker Account
